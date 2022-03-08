@@ -35,7 +35,7 @@ class CompanyCreatedMail extends GenericMail
      */
     public function build()
     {
-        return $this->view('emails.company-created')->from('rotjunkie@gmail.com', 'Aivaras')
+        return $this->view('emails.company-created')->from('zmattme@gmail.com', 'Matas')
             ->subject('Your company has been registered')
             ->text('emails.company-created-plain');
     }
