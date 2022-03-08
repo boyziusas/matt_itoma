@@ -19,7 +19,7 @@ Switch to the repo folder
 cd matt_itoma
 ```
 
-Install all the dependencies using composer install or composer update (if install fails for you)
+Install all the dependencies using 'composer install' or 'composer update' (if install fails for you)
 
 ```
 composer install
