@@ -55,6 +55,12 @@ php artisan serve
 
 You can now see the server running at http://127.0.0.1:8000
 
+LOGINS:
+
+```
+zmattme@gmail.com:bulve123
+```
+
 **(Also in the project there is a docker-compose.yml file that you can use to run this project with docker)**
 
 **TL;DR command list**
